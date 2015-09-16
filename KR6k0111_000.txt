@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 清淨毘尼方廣經
+#+DATE: 2015-08-30 20:44:27.260995
+#+PROPERTY: JUAN 0
